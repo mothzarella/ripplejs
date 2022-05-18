@@ -1,0 +1,26 @@
+{
+  "name": "ripplejs",
+  "version": "1.0.0",
+  "description": "ripple",
+  "main": "package/ripple.js",
+  "files": [
+    "package/ripple.js",
+    "package/ripple.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taralloxx/ripplejs.git"
+  },
+  "keywords": [
+    "ripple"
+  ],
+  "author": "tar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taralloxx/ripplejs/issues"
+  },
+  "homepage": "https://github.com/taralloxx/ripplejs#readme"
+}
